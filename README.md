@@ -16,7 +16,7 @@ En cours d’acquisition à travers des projets universitaires et personnels li�
 
 ## Projets principaux 🚀  
 1. **[FanSite](https://github.com/mathieu-auger/projet-Fansite.git)** : Site web fan de personnalités publiques  
-2. **[Nom du projet 2](https://github.com/sonia-khorsi/job1.git)** : Idem.  
+2. **[BloomPétals](https://github.com/sonia-khorsi/job1.git)** : BloomPétals est une entreprise fictive spécialisée dans la création de magnifiques arrangements floraux pour des célébrations uniques. Ce site met en valeur des bouquets élégants et un design soigné pour captiver les visiteurs.
 
 ---
 
